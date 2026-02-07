@@ -31,7 +31,6 @@ Light theme:
 
 **Contributing**
 - Bug reports and improvements welcome. Open a PR with focused changes.
-- Keep the app dependency-free and mobile-friendly.
 
 **License**
 See the `LICENSE` file in this repository.
