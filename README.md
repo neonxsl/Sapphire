@@ -13,13 +13,13 @@ Access it here: https://sapphire-edu.github.io
 
 **Preview**
 
-Dark and light screenshots (original assets preserved):
-
+Dark theme:
 ![](https://github.com/user-attachments/assets/ed13b8d2-1839-4e0a-8e85-30797e11e41a)
 ![](https://github.com/user-attachments/assets/a6a9d867-6d5e-45bb-a278-98c767908325)
 
-![](https://github.com/user-attachments/assets/e8bc77e9-9219-42ff-9bfd-ff93dc90d96b)
+Light theme:
 ![](https://github.com/user-attachments/assets/4dd3fa11-3952-4852-922c-d3aee6185819)
+![](https://github.com/user-attachments/assets/e8bc77e9-9219-42ff-9bfd-ff93dc90d96b)
 
 **How to use**
 - Add a subject via the "Add Subject" card.
