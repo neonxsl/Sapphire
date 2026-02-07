@@ -1,6 +1,9 @@
-<img width="96" height="96" alt="favicon (1)" src="https://github.com/user-attachments/assets/f580e616-93c8-40d6-9b87-45bec5ec0ffa" /> # Sapphire
+<h1 align="left">
+  <img width="96" height="96" alt="favicon" src="https://github.com/user-attachments/assets/f580e616-93c8-40d6-9b87-45bec5ec0ffa" />
+  Sapphire
+</h1>
 
-Sapphire is a lightweight, client-side gradebook designed for NSW high school students. It runs entirely in the browser and stores data locally on your device (no server required), helping you track subjects, assessments, and upcoming due dates while visualising your performance over time.
+Sapphire is a lightweight, client-side gradebook designed for NSW high school students. It runs entirely in the browser and stores data locally on your device (no server required), helping you track s[...]
 
 Access it here: https://sapphire-edu.github.io
 
@@ -34,5 +37,3 @@ Light theme:
 
 **License**
 See the `LICENSE` file in this repository.
-
-
