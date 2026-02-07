@@ -1,7 +1,9 @@
 # Sapphire
-NSW School Gradebook
+A NSW High School Gradebook
 
-access it here: https://sapphire-edu.github.io
+Access it here: https://sapphire-edu.github.io
+
+Includes 8 bespoke themes.
 
 # Preview
 
